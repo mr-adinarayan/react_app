@@ -16,11 +16,6 @@
   </p>
 </div>
 
-## Project Screenshots
-
-  <img src="Screenshot1.png" alt="Logo" width="1024" height="512">
-
-<img src="Screenshot.png" alt="Logo" width="1024" height="512">
 
 <!-- TABLE OF CONTENTS -->
 <details>
