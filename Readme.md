@@ -98,9 +98,9 @@ Before you begin, ensure you have the following prerequisites installed on your 
 <!-- CONTACT -->
 ## Contact
 
-KUMARASWAMY S- [Twiter](https://twitter.com/Manojkumbi) -[Email](kumarswamy2803@gmail.com)
+ADINARAYANA S- [Twiter](https://x.com/mradinarayan)-[Linkedin](https://www.linkedin.com/in/mr-adinarayan-672792323/)-[Email](mradinarayan123@gmail.com)
 
-Project Link: [click me](https://github.com/Manojkumbi/journey)
+Project Link: [click me](https://github.com/mr-adinarayan/react_app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
