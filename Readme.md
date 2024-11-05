@@ -2,12 +2,6 @@
 
 ## Fullstack MERN Blogging Website
 
-<a name="readme-top"></a>
-<br />
-<div align="center">
-  <a href="https://github.com/Manojkumbi/journey">
-    <img src="logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Journey Blog</h3>
 
